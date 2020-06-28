@@ -1,0 +1,13 @@
+## compiled ##
+*/dist
+*/comp
+*/out-tsc
+
+## intellij ##
+*/.idea
+*/node_modules
+*.iml
+
+#e2e
+*/e2e/*.js
+*/e2e/*.map
